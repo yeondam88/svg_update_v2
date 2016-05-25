@@ -34,6 +34,7 @@ a {
   a:hover,
   a:hover path {
     color: #111;
+    fill:#111;
     transition: 1s ease;
   }
 
@@ -112,7 +113,7 @@ footer {
   SVG STYLE
 ********************************************************/
 /*---LOGO---*/
-#Layer_1 {
+#logo-image {
   width: 140px;
   height: 120px;
   font-weight: bold;
